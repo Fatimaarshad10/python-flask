@@ -1,11 +1,11 @@
 Lecture no 01 (27-03-2025)
-string
-fstring
-.format()
-int
-Boolean
-list
-tuple
-dictionary
-set
-type() function
+1 string
+2 fstring
+3 .format()
+4 int
+5 Boolean
+6 list
+7 tuple
+8 dictionary
+9 set
+10 type() function
